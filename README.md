@@ -1,4 +1,4 @@
-# swift_ui_bootcamp
+# swifui_bootcamp
 
 All of the resources are from Swiftful Thinking
 https://www.youtube.com/@SwiftfulThinking/featured
