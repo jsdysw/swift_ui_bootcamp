@@ -1,1 +1,73 @@
 # swift_ui_bootcamp
+
+All of the resources are from Swiftful Thinking
+https://www.youtube.com/@SwiftfulThinking/featured
+
+
+2. Text
+3. Shapes
+4. Color
+5. Gradients
+6. Icons
+7. Image
+8. Frame
+9. BackgroundAndOverlay
+10. Stacks
+11. Padding
+12. Spacer
+13. Initializer
+14. ForEach
+15. ScrollView
+16. Grid
+17. SafeArea
+18. Button
+19. State
+20. ExtractedFunctions
+21. ExtractSubviews
+22. Binding
+23. Conditional
+24. TernaryOperator
+25. Animation
+26. AnimationTiming
+27. Transition
+28. Sheets
+29. Popover
+30. NavigationView
+31. List
+32. Alert
+33. ActionSheet
+34. ContextMenu
+35. TextField
+36. TextEditor
+37. Toggle
+38. Picker
+39. ColorPicker
+40. DatePicker
+41. Stepper
+42. Slider
+43. TabView
+44. DarkMode
+45. Documentation
+46. OnAppear
+47. IfLetGuard
+48. TapGesture
+49. Model
+50. ViewModel
+51. EnvironmentObject
+52. AppStorage
+53. Practice : OnboardingViews
+54. AsyncImage
+55. BackgroundMaterials
+56. TextSelection
+57. ButtonStyle
+58. ListSwipeAction
+59. Badges
+60. FocusState
+61. SubmitTextField
+62. NavigationStack
+63. Toolbar
+64. ResizableSheet
+65. SafeAreaInset
+66. Group
+67. AnimationUpdated
+68. Menu
